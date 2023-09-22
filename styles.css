@@ -8,7 +8,7 @@ html {
   }
   
   #piano {
-    background-color: rgb(58, 158, 0);
+    background-color: rgb(119, 29, 29);
     width: 992px;
     height: 290px;
     margin: 80px auto;
@@ -51,6 +51,10 @@ html {
     width: 200px;
     position: absolute;
     top: 23px;
+  }
+
+  h1 {
+    text-align: center;
   }
   
   @media (max-width: 768px) {
